@@ -1,0 +1,5 @@
+numpy==2.1.3
+pandas
+requests
+Flask
+scikit-learn
